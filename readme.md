@@ -1,5 +1,5 @@
-#Tired Knight
-![Project Banner](https://www.vecteezy.com/photo/1954109-king-and-knight-chess-setup-on-dark-background)
+# Tired Knight
+![Project Banner](https://media.istockphoto.com/id/1273331529/photo/pieces-on-chess-board-for-playing-game-and-strategy.jpg?s=612x612&w=0&k=20&c=orWLdvG7aQEQFeW3LIpg4ZpI0iggo9Z4b7uMCx7Q4f0=)
 
 # Tired Knight
 
